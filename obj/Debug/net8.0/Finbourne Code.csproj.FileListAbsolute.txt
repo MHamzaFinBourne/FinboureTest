@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Finbourne Code\bin\Debug\net8.0\Finbourne Code.exe
+C:\Users\HP\Desktop\Finbourne Code\bin\Debug\net8.0\Finbourne Code.deps.json
+C:\Users\HP\Desktop\Finbourne Code\bin\Debug\net8.0\Finbourne Code.runtimeconfig.json
+C:\Users\HP\Desktop\Finbourne Code\bin\Debug\net8.0\Finbourne Code.dll
+C:\Users\HP\Desktop\Finbourne Code\bin\Debug\net8.0\Finbourne Code.pdb
+C:\Users\HP\Desktop\Finbourne Code\obj\Debug\net8.0\Finbourne Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Finbourne Code\obj\Debug\net8.0\Finbourne Code.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Finbourne Code\obj\Debug\net8.0\Finbourne Code.AssemblyInfo.cs
+C:\Users\HP\Desktop\Finbourne Code\obj\Debug\net8.0\Finbourne Code.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Finbourne Code\obj\Debug\net8.0\Finbourne Code.dll
+C:\Users\HP\Desktop\Finbourne Code\obj\Debug\net8.0\refint\Finbourne Code.dll
+C:\Users\HP\Desktop\Finbourne Code\obj\Debug\net8.0\Finbourne Code.pdb
+C:\Users\HP\Desktop\Finbourne Code\obj\Debug\net8.0\Finbourne Code.genruntimeconfig.cache
+C:\Users\HP\Desktop\Finbourne Code\obj\Debug\net8.0\ref\Finbourne Code.dll
